@@ -1,0 +1,6 @@
+{
+  "name": "Interactive CV Showcase",
+  "description": "A dynamic and interactive CV web application built with React, TypeScript, and Tailwind CSS, allowing users to view professional information in multiple languages and contact the individual.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
